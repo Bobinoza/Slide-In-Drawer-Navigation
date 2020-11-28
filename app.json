@@ -1,0 +1,12 @@
+{
+  "name": "DrawerNavigation",
+  "displayName": "DrawerNavigation",
+  "expo": {
+    "name": "DrawerNavigation",
+    "slug": "DrawerNavigation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
